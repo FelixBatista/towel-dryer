@@ -1,0 +1,6 @@
+{
+  "arch": "esp32",
+  "platform": "esp32",
+  "app_name": "towel_dryer",
+  "build_time_ms": 78283
+}
